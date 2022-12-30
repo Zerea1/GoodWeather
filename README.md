@@ -54,50 +54,6 @@ GIF看不了的，打开下面的视频地址进行观看<br>
 ## 天气APP 博客专栏
 [天气APP](https://blog.csdn.net/qq_38436214/category_9880722.html)<br>
 
-## 天气APP文章博客(一步一步开发天气APP)
-[Android 天气APP（一）开发准备](https://blog.csdn.net/qq_38436214/article/details/105204552)<br>
-[Android 天气APP（二）获取定位信息](https://blog.csdn.net/qq_38436214/article/details/105328603)<br>
-[Android 天气APP（三）访问天气API与数据请求](https://blog.csdn.net/qq_38436214/article/details/105328657)<br>
-[Android 天气APP（四）搭建MVP框架与使用](https://blog.csdn.net/qq_38436214/article/details/105328692)<br>
-[Android 天气APP（五）天气预报、生活指数的数据请求与渲染](https://blog.csdn.net/qq_38436214/article/details/105328780)<br>
-[Android 天气APP（六）旋转风车显示风力、风向](https://blog.csdn.net/qq_38436214/article/details/105328824)<br>
-[Android 天气APP（七）城市切换 之 城市数据源](https://blog.csdn.net/qq_38436214/article/details/105328943)<br>
-[Android 天气APP（八）城市切换 之 自定义弹窗与使用](https://blog.csdn.net/qq_38436214/article/details/105328968)<br>
-[Android 天气APP（九）细节优化、必应每日一图](https://blog.csdn.net/qq_38436214/article/details/105331216)<br>
-[Android 天气APP（十）继续优化、下拉刷新页面天气数据](https://blog.csdn.net/qq_38436214/article/details/105435574)<br>
-[Android 天气APP（十一）未来七天的天气预报、逐小时预报、UI优化](https://blog.csdn.net/qq_38436214/article/details/105784966)<br>
-[Android 天气APP（十二）空气质量、UI优化调整](https://blog.csdn.net/qq_38436214/article/details/105856012)<br>
-[Android 天气APP（十三）仿微信弹窗(右上角加号点击弹窗效果)、自定义背景图片、UI优化调整](https://blog.csdn.net/qq_38436214/article/details/105941708)<br>
-[Android 天气APP（十四）修复UI显示异常、优化业务代码逻辑、增加详情天气显示](https://blog.csdn.net/qq_38436214/article/details/106155207)<br>
-[Android 天气APP（十五）增加城市搜索、历史搜索记录](https://blog.csdn.net/qq_38436214/article/details/106591788)<br>
-[Android 天气APP（十六）热门城市 - 海外城市](https://blog.csdn.net/qq_38436214/article/details/106645543)<br>
-[Android 天气APP（十七）热门城市 - 国内城市](https://blog.csdn.net/qq_38436214/article/details/106942710)<br>
-[Android 天气APP（十八）常用城市](https://blog.csdn.net/qq_38436214/article/details/106993550)<br>
-[Android 天气APP（十九）更换新版API接口（更高、更快、更强）](https://blog.csdn.net/qq_38436214/article/details/107327779)<br>
-[Android 天气APP（二十）增加欢迎页及白屏黑屏处理、展示世界国家/地区的城市数据](https://blog.csdn.net/qq_38436214/article/details/107538839)<br>
-[Android 天气APP（二十一）滑动改变UI、增加更多天气数据展示，最多未来15天天气预报](https://blog.csdn.net/qq_38436214/article/details/107705898)<br>
-[Android 天气APP（二十二）改动些许UI、增加更多空气质量数据和生活建议数据展示](https://blog.csdn.net/qq_38436214/article/details/107867980)<br>
-[Android 天气APP（二十三）增加灾害预警、优化主页面UI](https://blog.csdn.net/qq_38436214/article/details/108005938)<br>
-[Android 天气APP（二十四）地图天气（上）自动定位和地图点击定位](https://blog.csdn.net/qq_38436214/article/details/108274437)<br>
-[Android 天气APP（二十五）地图天气（下）嵌套滑动布局渲染天气数据](https://blog.csdn.net/qq_38436214/article/details/108274498)<br>
-[Android 天气APP（二十六）增加自动更新（检查版本、通知栏下载、自动安装）](https://blog.csdn.net/qq_38436214/article/details/108335485)<br>
-[Android 天气APP（二十七）增加地图天气的逐小时天气、太阳和月亮数据](https://blog.csdn.net/qq_38436214/article/details/108397121)<br>
-[Android 天气APP（二十八）地图搜索定位](https://blog.csdn.net/qq_38436214/article/details/108407945)<br>
-[Android 天气APP（二十九）壁纸设置、图片查看、图片保存](https://blog.csdn.net/qq_38436214/article/details/108469321)<br>
-[Android 天气APP（三十）分钟级降水](https://blog.csdn.net/qq_38436214/article/details/110469064)<br>
-[Android 天气APP（三十一）每日提醒弹窗](https://blog.csdn.net/qq_38436214/article/details/110647965)<br>
-[Android 天气APP（三十二）快捷切换常用城市](https://blog.csdn.net/qq_38436214/article/details/113498027)<br>
-[Android 天气APP（三十三）语音播报](https://blog.csdn.net/qq_38436214/article/details/113544891)<br>
-[Android 天气APP（三十四）语音搜索](https://blog.csdn.net/qq_38436214/article/details/113699279)<br>
-[Android 天气APP（三十五）修复BUG、升级网络请求框架](https://blog.csdn.net/qq_38436214/article/details/119295627)<br>
-[Android 天气APP（三十六）运行到本地AS、更新项目版本依赖、去掉ButterKnife](https://blog.csdn.net/qq_38436214/article/details/127673536)<br>
-
-文章代码是一篇一篇进行迭代的，也欢迎读者提供新的需求，适当采纳，更好的优化这个项目<br>
-
-联系邮箱：lonelyholiday@qq.com<br>
-
-博主：[初学者-Study](https://blog.csdn.net/qq_38436214)<br>
-
 ## 版本说明
 ### V 2.9 (最新版本)
 * 新版AS正常编译、更新项目版本依赖、去掉ButterKnife，使用ViewBinding<br>
